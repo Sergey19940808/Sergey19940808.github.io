@@ -1,0 +1,20 @@
+.main {
+    width: 100%;
+    margin: 30px;
+}
+.main__title {
+    font-size: 22px;
+    color: rgb(75, 91, 104);
+}
+.main__content {
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+.main__content-title {
+    font-size: 18px;
+    color: rgb(75, 91, 104);
+}
+.main__list-item {
+    list-style-type: none;
+    padding: 10px 0 0 0;
+}

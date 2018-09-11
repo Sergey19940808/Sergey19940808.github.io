@@ -1,0 +1,9 @@
+.auth {
+    text-align: center;
+    padding: 50px 0 0 0;
+}
+.auth__title {
+    font-size: 25px;
+    color: rgb(75, 91, 104);
+    cursor: pointer;
+}
